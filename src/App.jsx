@@ -1,6 +1,7 @@
 import About from "./Component/About"
 import Baner from "./Component/Baner"
 import Heders from "./Component/Heders"
+import WhatIdo from "./Component/WhatIdo"
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <Baner/>
       <Heders/>
       <About/>
+      <WhatIdo/>
     </>
   )
 }
