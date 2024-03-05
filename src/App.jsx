@@ -1,4 +1,5 @@
 import Baner from "./Component/Baner"
+import Heders from "./Component/Heders"
 
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <>
     
       <Baner/>
+      <Heders/>
     </>
   )
 }

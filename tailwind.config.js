@@ -12,7 +12,10 @@ export default {
       fontFamily: {
         'sans': [ "Open Sans", "sans-serif"]
         
-      }
+      },
+      colors: {
+        'orange': '#FD6E0A',
+      },
     },
   },
   plugins: [],
