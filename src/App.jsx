@@ -1,6 +1,7 @@
 import About from "./Component/About"
 import Baner from "./Component/Baner"
 import Heders from "./Component/Heders"
+import Resume from "./Component/Resume"
 import WhatIdo from "./Component/WhatIdo"
 
 
@@ -14,6 +15,7 @@ function App() {
       <Heders/>
       <About/>
       <WhatIdo/>
+      <Resume/>
     </>
   )
 }
